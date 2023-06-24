@@ -1,0 +1,23 @@
+{
+  "name": "task-manager-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UtkarshDixit-py/task-manager-application.git"
+  },
+  "author": "Utkarsh Dixit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UtkarshDixit-py/task-manager-application/issues"
+  },
+  "homepage": "https://github.com/UtkarshDixit-py/task-manager-application#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
